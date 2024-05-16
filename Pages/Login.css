@@ -1,0 +1,28 @@
+.login {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    background-color: lightskyblue;
+    color: black;
+}
+input {
+    margin-top: 25px;
+    height: 30px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 20px;
+    text-align: center;
+}
+#loginbtn {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+}
+#loginbtn:hover{
+    background-color: rgb(194, 224, 243);
+    color: black;
+}
