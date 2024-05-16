@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  background-color: lightskyblue;
+}
+p {
+  margin-left: 30px;
+  padding: 6px;
+}
+.menubar {
+   display: flex;
+}
+p:hover {
+   background-color: white;
+   color: black;
+   border-radius: 10px;
+   transition: .4s;
+   cursor: pointer;
+}
+.home {
+  text-decoration: none;
+}
